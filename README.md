@@ -1,0 +1,2 @@
+# django_helloword
+django_template_rendering_demo
